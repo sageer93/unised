@@ -5353,3 +5353,28 @@ a:hover{ text-decoration: none; }
 
 /* my code  */
 
+
+.videobox{
+	position: relative;
+}
+.videobox p{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	color: white;
+	font-size: 2rem;
+	font-weight: 400;
+}
+.videobox h1{
+	position: absolute;
+	top: 80px;
+	left: 50px;
+	color: white;
+	font-size: 3rem;
+	font-weight: 600;
+}
+.videobox a{
+	position: absolute;
+	top: 180px;
+	left: 50px;
+}
